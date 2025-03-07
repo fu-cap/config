@@ -1,0 +1,2 @@
+# config
+Repository für Konfigurationsmanagement
