@@ -1,1 +1,1 @@
-dritte Datei im clone Repository, lokal geändert.
+dritte Datei im clone Repository, verändert.
